@@ -1,0 +1,21 @@
+{
+  "name": "recipe-book-api",
+  "version": "1.0.0",
+  "description": "Backend for the recipe-book angular project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvannaZimina/recipe-book-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/IvannaZimina/recipe-book-api/issues"
+  },
+  "homepage": "https://github.com/IvannaZimina/recipe-book-api#readme"
+}
