@@ -45,10 +45,6 @@ app.get("/", (req, res) => {
     res.send("Recipe Book API is running");
 });
 
-app.get("/", (req, res) => {
-    res.send("Recipe Book API is running");
-});
-
 // Mount all recipe-related routes under the /api/recipes prefix
 app.use("/api/recipes", recipeRoutes);
 
